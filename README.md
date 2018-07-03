@@ -1,5 +1,7 @@
 # ReduxSimpleStarter
 
+$ git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
